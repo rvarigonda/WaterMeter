@@ -1,0 +1,19 @@
+version: '3.4'
+
+services:
+  mqttconnection:
+    image: mqttconnection:dev
+    container_name: MQTTConnection
+    build:
+      args:
+        source: obj/Docker/empty/
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "MQTTConnection"
+    volumes:
+      - C:\Water Meter\MQTTConnection\MQTTConnection\MQTTConnection:C:\app
+      - C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\Remote Debugger:C:\remote_debugger:ro
+    entrypoint: cmd /c "set DISABLE_PERFORMANCE_DEBUGGER=1 & C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646"
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "C:\\app\\bin\\Debug\\MQTTConnection.exe"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"

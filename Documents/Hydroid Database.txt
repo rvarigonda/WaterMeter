@@ -1,0 +1,354 @@
+create Database Hydroid
+use Hydroid
+
+USE [Hydroid]
+GO
+
+/****** Object:  Table [dbo].[AddDevice]    Script Date: 12/26/2022 8:08:58 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[AddDevice](
+	[Selected] [varchar](255) NULL,
+	[DeviceID] [int] NULL,
+	[SerialID] [int] NULL,
+	[Type] [varchar](255) NULL,
+	[Network] [varchar](255) NULL,
+	[PIN] [varchar](255) NULL,
+	[Country] [varchar](255) NULL,
+	[LeakageLimit] [varchar](255) NULL,
+	[DTT] [varchar](255) NULL
+) ON [PRIMARY]
+GO
+----------------
+
+USE [Hydroid]
+GO
+
+/****** Object:  Table [dbo].[AddOrganisation]    Script Date: 12/26/2022 8:11:03 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[AddOrganisation](
+	[Org_Select] [varchar](255) NULL,
+	[Org_ID] [varchar](255) NULL,
+	[Org_Name] [varchar](255) NULL,
+	[Org_Type] [varchar](255) NULL,
+	[Org_Address] [varchar](255) NULL,
+	[Org_City] [varchar](255) NULL,
+	[Org_Post] [varchar](255) NULL,
+	[Org_Country] [varchar](255) NULL,
+	[Org_ContactNumber] [varchar](255) NULL,
+	[Org_Website] [varchar](255) NULL,
+	[Apt_Select] [varchar](255) NULL,
+	[Apt_ID] [varchar](255) NULL,
+	[Apt_Name] [varchar](255) NULL,
+	[SelectOrganisation] [varchar](255) NULL,
+	[Bld_Select] [varchar](255) NULL,
+	[Bld_ID] [varchar](255) NULL,
+	[Bld_Name] [varchar](255) NULL,
+	[SelectAptComplex] [varchar](255) NULL,
+	[Floor_Select] [varchar](255) NULL,
+	[Floor_ID] [varchar](255) NULL,
+	[Floor_Name] [varchar](255) NULL,
+	[Floor_SelectOrganisation] [varchar](255) NULL,
+	[Unit_Select] [varchar](255) NULL,
+	[Unit_ID] [varchar](255) NULL,
+	[Unit_Name] [varchar](255) NULL,
+	[UnitDeviceMapping_Select] [varchar](255) NULL,
+	[SelectDevice] [varchar](255) NULL
+) ON [PRIMARY]
+GO
+
+------------------
+
+USE [Hydroid]
+GO
+
+/****** Object:  Table [dbo].[AddUsers]    Script Date: 12/26/2022 8:11:38 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[AddUsers](
+	[selected] [varchar](255) NULL,
+	[ID] [int] NULL,
+	[Name] [varchar](255) NULL,
+	[type] [varchar](255) NULL,
+	[city] [varchar](255) NULL,
+	[post] [varchar](255) NULL,
+	[country] [varchar](255) NULL,
+	[ContactNumber] [varchar](255) NULL,
+	[website] [varchar](255) NULL
+) ON [PRIMARY]
+GO
+---------
+
+
+USE [Hydroid]
+GO
+
+/****** Object:  Table [dbo].[Mst_Device]    Script Date: 12/26/2022 8:16:21 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Mst_Device](
+	[Id] [int] NOT NULL,
+	[Device_Id] [nvarchar](20) NULL,
+	[Application_Id] [nvarchar](20) NOT NULL,
+	[Created_By] [nvarchar](20) NOT NULL,
+	[Created_Date] [datetime] NOT NULL,
+	[Modified_By] [nvarchar](20) NOT NULL,
+	[Modified_Date] [datetime] NOT NULL,
+	[Status] [bit] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+-------------
+USE [Hydroid]
+GO
+
+/****** Object:  Table [dbo].[Sync_datum]    Script Date: 12/26/2022 8:16:56 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Sync_datum](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Device_Id] [nvarchar](20) NULL,
+	[Time] [datetime] NULL,
+	[Serial] [nvarchar](20) NULL,
+	[PayLoad_Base64] [nvarchar](50) NULL,
+	[PayLoad_ASCII] [nvarchar](50) NULL,
+	[Status] [bit] NOT NULL,
+	[Created_By] [nvarchar](20) NOT NULL,
+	[Created_Date] [datetime] NOT NULL,
+	[Modified_By] [nvarchar](20) NOT NULL,
+	[Modified_Date] [datetime] NOT NULL,
+	[Application_Id] [nvarchar](20) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+--------------------
+
+USE [Hydroid]
+GO
+
+/****** Object:  Table [dbo].[Users]    Script Date: 12/26/2022 8:17:25 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Users](
+	[UserID] [varchar](255) NULL,
+	[Name] [varchar](255) NULL,
+	[Password] [varchar](255) NULL,
+	[Role] [varchar](255) NULL
+) ON [PRIMARY]
+GO
+
+
+
+insert into  AddUsers values(1, 'User','User','User')
+insert into  AddUsers values(2, 'Admin','Admin','Admin')
+insert into  AddUsers values(3, 'SuperAdmin','SuperAdmin','SuperAdmin')
+insert into  AddUsers values(4, 'Hallmark','Hallmark@123','Admin')
+-----
+
+
+Stored Procedures
+
+USE [Hydroid]
+GO
+/****** Object:  StoredProcedure [dbo].[AddNewDeviceDetails]    Script Date: 12/26/2022 8:19:21 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[AddNewDeviceDetails]
+(
+ @Selected varchar (50),
+   @DeviceID varchar (50),
+   @SerialID varchar (50),
+   @Type varchar (50),
+   @Network varchar (50),
+   @PIN varchar (50),
+   @Country varchar (50),
+   @LeakageLimit varchar(50),
+   @DTT varchar (50)
+
+
+   )
+as
+begin
+   Insert into AddDevice values(@Selected,@DeviceID ,@SerialID, @Type,@Network,@PIN, @Country,@LeakageLimit,@DTT)
+   end
+   
+   ---------------
+   
+   USE [Hydroid]
+GO
+/****** Object:  StoredProcedure [dbo].[AddNewOrgDetails]    Script Date: 12/26/2022 8:20:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+ALTER procedure [dbo].[AddNewOrgDetails]
+(
+   @Org_Select varchar (50),
+   @Org_ID varchar (50),
+   @Org_Name varchar (50),
+    @Org_Type varchar (50),
+	@Org_Address varchar (50),
+	@Org_City varchar (50),
+	@Org_Post varchar (50),
+	@Org_Country varchar (50),
+	@Org_ContactNumber varchar (50),
+	@Org_Website varchar (50),
+	@Apt_Select varchar (50),
+	@Apt_ID varchar (50),
+	@Apt_Name varchar (50),
+	@SelectOrganisation varchar (50),
+	@Bld_Select varchar (50),
+	@Bld_ID varchar (50),
+	@Bld_Name varchar (50),
+	@SelectAptComplex varchar (50),
+	@Floor_Select varchar (50),
+	@Floor_ID varchar (50),
+	@Floor_Name varchar (50),
+	@Floor_SelectOrganisation varchar (50),
+	@Unit_Select varchar (50),
+	@Unit_ID varchar (50),
+	@Unit_Name varchar (50),
+	@UnitDeviceMapping_Select varchar (50),
+	@SelectDevice varchar (50)
+
+
+)
+as
+begin
+   Insert into AddOrganisation values(@Org_Select,@Org_ID,@Org_Name,@Org_Type,@Org_Address,@Org_City,@Org_Post,@Org_Country,@Org_ContactNumber,@Org_Website,@Apt_Select,@Apt_ID,@Apt_Name,@SelectOrganisation,@Bld_Select,@Bld_ID,
+	@Bld_Name,@SelectAptComplex,@Floor_Select,@Floor_ID,@Floor_Name,@Floor_SelectOrganisation,@Unit_Select,@Unit_ID,@Unit_Name,@UnitDeviceMapping_Select,@SelectDevice
+	)
+End
+
+--------------------
+
+USE [Hydroid]
+GO
+/****** Object:  StoredProcedure [dbo].[AddNewUserDetails]    Script Date: 12/26/2022 8:20:24 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER procedure [dbo].[AddNewUserDetails]
+(
+ @selected varchar (50),
+   @ID varchar (50),
+   @Name varchar (50),
+   @type varchar (50),
+   @city varchar (50),
+   @post varchar (50),
+   @country varchar (50),
+   @ContactNumber varchar(50),
+   @website varchar (50)
+)
+as
+begin
+   Insert into AddUsers values(@selected,@ID ,@Name, @type,@city,@post, @country,@ContactNumber,@website)
+End
+
+
+---------------
+
+USE [Hydroid]
+GO
+/****** Object:  StoredProcedure [dbo].[getSync_datum]    Script Date: 12/26/2022 8:20:41 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+ALTER procedure [dbo].[getSync_datum]
+(
+   
+   @Created_By nvarchar(20)
+  
+
+   
+
+
+   )
+as
+begin
+
+   select * from Sync_datum where Created_By=@Created_By;
+   end
+
+
+---------------
+
+USE [Hydroid]
+GO
+/****** Object:  StoredProcedure [dbo].[Login]    Script Date: 12/26/2022 8:21:16 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+ALTER procedure [dbo].[Login]
+(
+  -- @UserID varchar (50),
+   @Name varchar (50),
+   @Password varchar (50)
+ --  @Role varchar (50)
+  
+)
+as
+begin
+   --Insert into Users values(@UserID ,@Name, @Password, @Role)
+   select Role from Users where Name=@Name and Password= @Password
+End
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

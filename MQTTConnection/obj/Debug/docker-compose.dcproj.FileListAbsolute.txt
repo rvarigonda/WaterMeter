@@ -1,0 +1,11 @@
+C:\Water Meter\MQTTConnection\MQTTConnection\bin\Debug\MQTTConnection.exe
+C:\Water Meter\MQTTConnection\MQTTConnection\bin\Debug\EntityFramework.dll
+C:\Water Meter\MQTTConnection\MQTTConnection\bin\Debug\MQTTnet.dll
+C:\Water Meter\MQTTConnection\MQTTConnection\bin\Debug\Newtonsoft.Json.dll
+C:\Water Meter\MQTTConnection\MQTTConnection\bin\Debug\MQTTConnection.pdb
+C:\Water Meter\MQTTConnection\MQTTConnection\bin\Debug\MQTTConnection.exe.config
+C:\Water Meter\MQTTConnection\MQTTConnection\bin\Debug\EntityFramework.xml
+C:\Water Meter\MQTTConnection\MQTTConnection\bin\Debug\Newtonsoft.Json.xml
+C:\Water Meter\MQTTConnection\MQTTConnection\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Water Meter\MQTTConnection\MQTTConnection\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Water Meter\MQTTConnection\MQTTConnection\obj\Debug\docker-compose.dcproj.CopyComplete

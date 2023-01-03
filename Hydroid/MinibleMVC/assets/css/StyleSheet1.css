@@ -1,0 +1,103 @@
+﻿body {
+    margin:0;
+    padding: 0;
+   
+}
+
+#main {
+    display: flex;
+    position: absolute;
+    height: 500px;
+    width: 80%;
+    background-color: black;
+    padding: 25px;
+    
+    
+}
+#sub-main-1{
+    position: relative;
+    top:200px;
+   
+}
+
+#sub-main-2-sub-1 {
+    position: relative;
+    top: 60px;
+    
+}
+#sub-main-2-sub-2 {
+    position: relative;
+    top: 140px;
+    
+}
+#sub-main-2-sub-3 {
+    position: relative;
+    top: 220px;
+    
+}
+#sub-main-3-sub-1 {
+    position: relative;
+    top: 60px;
+    
+}
+#sub-main-3-sub-2 {
+    position: relative;
+    top: 140px;
+    
+}
+#sub-main-3-sub-3 {
+    position: relative;
+    top: 195px;
+   
+}
+#sub-main-4-sub-1 {
+    position: relative;
+    top: 5px;
+    
+}
+#sub-main-4-sub-2 {
+    position: relative;
+    top: 40px;
+    
+}
+#sub-main-4-sub-3 {
+    position: relative;
+    top: 70px;
+    
+}
+#sub-main-5-sub-1 {
+    position: relative;
+    top: 5px;
+    
+}
+#sub-main-5-sub-2 {
+    position: relative;
+    top: 140px;
+    
+}
+#sub-main-5-sub-3 {
+    position: relative;
+    top: 200px;
+    
+}
+#sub-main-6-sub-2 {
+    position: relative;
+    top: 180px;
+    
+}
+#sub-main-6-sub-3 {
+    position: relative;
+    top: 320px;
+    
+}
+#text-main {
+    color: white;
+}
+#sub-main-3-sub-3-sub-1{
+    padding: 10px;
+}
+#sub-main-3-sub-3-sub-2 {
+    padding: 3px;
+}
+
+

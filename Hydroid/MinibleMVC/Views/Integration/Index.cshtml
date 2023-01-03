@@ -1,0 +1,310 @@
+﻿@{
+    ViewBag.Title = "Wizard";
+    ViewBag.pTitle = "Integrations";
+    ViewBag.pageTitle = "Forms";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4"></h4>
+
+                <div id="vertical-example" class="vertical-wizard">
+                    <!-- Seller Details -->
+                    <h3>MQTT</h3>
+                    <section>
+                        <form>
+                            <div class="row">
+                                <h4 class="card-title mb-4">MQTT Server Host</h4>
+                                <div class="col-lg-6">
+                                    
+                                    <div class="mb-3">
+
+                                        <label for="verticalnav-firstname-input">Public Address</label>
+                                        <input type="text" class="form-control" id="verticalnav-firstname-input" placeholder="Enter public address ">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-lastname-input">Public TLS address</label>
+                                        <input type="text" class="form-control" id="verticalnav-lastname-input" placeholder="Enter TLS address">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                            </div><!-- end row -->
+
+                            <div class="row">
+                                <h4 class="card-title mb-4">Connection Credentials</h4>
+                                <div class="col-lg-6">
+
+                                    <div class="mb-3">
+
+                                        <label for="verticalnav-phoneno-input">User Name</label>
+                                        <input type="text" class="form-control" id="verticalnav-phoneno-input" placeholder="Enter User Name">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-email-input">Password</label>
+                                        <input type="email" class="form-control" id="verticalnav-email-input" placeholder="Enter your Password">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                            </div><!-- end row -->
+                            
+                        </form>
+                    </section>
+                    <h3>WebHooks</h3>
+                    <section>
+                        <form>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-firstname-input">First Name</label>
+                                        <input type="text" class="form-control" id="verticalnav-firstname-input" placeholder="Enter your First Name">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-lastname-input">Last name</label>
+                                        <input type="text" class="form-control" id="verticalnav-lastname-input" placeholder="Enter your Last Name">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                            </div><!-- end row -->
+
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-phoneno-input">Phone</label>
+                                        <input type="text" class="form-control" id="verticalnav-phoneno-input" placeholder="Enter your Phone">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-email-input">Email</label>
+                                        <input type="email" class="form-control" id="verticalnav-email-input" placeholder="Enter your Email address">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                            </div><!-- end row -->
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-address-input">Address</label>
+                                        <textarea id="verticalnav-address-input" class="form-control" rows="2" placeholder="Enter your Address"></textarea>
+                                    </div>
+                                </div><!-- end col-lg-12 -->
+                            </div><!-- end row -->
+                        </form>
+                    </section>
+                    <h3>AWS IoT</h3>
+                    <section>
+                        <form>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="mb-12">
+                                        <label for="verticalnav-firstname-input">Region</label>
+                                        <input type="text" class="form-control" id="verticalnav-firstname-input" placeholder="Enter Region">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                                
+                            </div><!-- end row -->
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="mb-12">
+                                        <label for="verticalnav-phoneno-input">CloudFormation Stack Name</label>
+                                        <input type="text" class="form-control" id="verticalnav-phoneno-input" placeholder="Enter CloudFormation Stack Name">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                                <!--<div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-email-input">Email</label>
+                                        <input type="email" class="form-control" id="verticalnav-email-input" placeholder="Enter your Email address">
+                                    </div>
+                                </div>--><!-- end col-lg-6 -->
+                            </div><!-- end row -->
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-address-input">Role ARN</label>
+                                        <textarea id="verticalnav-address-input" class="form-control" rows="2" placeholder="Enter ARN"></textarea>
+                                    </div>
+                                </div><!-- end col-lg-12 -->
+                            </div><!-- end row -->
+                        </form>
+                    </section>
+                    <h3>Azure IoT</h3>
+                    <section>
+                        <form>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-firstname-input">Application ID</label>
+                                        <input type="text" class="form-control" id="verticalnav-firstname-input" placeholder="Enter Application ID">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-lastname-input">Cluster Address</label>
+                                        <input type="text" class="form-control" id="verticalnav-lastname-input" placeholder="Enter cluster address">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                            </div><!-- end row -->
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="mb-12">
+                                        <label for="verticalnav-phoneno-input">API Key</label>
+                                        <input type="text" class="form-control" id="verticalnav-phoneno-input" placeholder="Enter API Key">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                                </div>
+                            <br>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h4 class="card-title mb-4">Configurations</h4>
+                                        <div class="mb-12">
+                                            <label for="verticalnav-email-input">Azure IoT Hub Hostname</label>
+                                            <input type="email" class="form-control" id="verticalnav-email-input" placeholder="Enter Azure IoT Hub Hostname">
+                                        </div>
+                                    </div><!-- end col-lg-6 -->
+                                </div><!-- end row -->
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-address-input">Azure IoT Hub access key</label>
+                                        <textarea id="verticalnav-address-input" class="form-control" rows="2" placeholder="Enter access key"></textarea>
+                                    </div>
+                                </div><!-- end col-lg-12 -->
+                            </div><!-- end row -->
+                        </form>
+                    </section>
+
+
+
+
+                    <!-- Company Document -->
+                    <h3>LoRa Cloud</h3>
+                    <section>
+                        <form>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-pancard-input">PAN Card</label>
+                                        <input type="text" class="form-control" id="verticalnav-pancard-input" placeholder="Enter your PAN Card number">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-vatno-input">VAT/TIN No.</label>
+                                        <input type="text" class="form-control" id="verticalnav-vatno-input" placeholder="Enter your VAT/TIN number" />
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                            </div><!-- end row -->
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-cstno-input">CST No.</label>
+                                        <input type="text" class="form-control" id="verticalnav-cstno-input" placeholder="Enter your CST number">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-servicetax-input">Service Tax No.</label>
+                                        <input type="text" class="form-control" id="verticalnav-servicetax-input" placeholder="Enter your Service Tax number">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                            </div><!-- end row -->
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-companyuin-input">Company UIN</label>
+                                        <input type="text" class="form-control" id="verticalnav-companyuin-input" placeholder="Enter your Company UIN number">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+
+                                <div class="col-lg-6">
+                                    <div class="mb-3">
+                                        <label for="verticalnav-declaration-input">Declaration</label>
+                                        <input type="text" class="form-control" id="verticalnav-Declaration-input" placeholder="Enter your Declaration">
+                                    </div>
+                                </div><!-- end col-lg-6 -->
+                            </div><!-- end row -->
+                        </form>
+                    </section>
+
+                    <!-- Bank Details -->
+                    <h3>Storage Integration</h3>
+                    <section>
+                        <div>
+                            <form>
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="mb-3">
+                                            <label for="verticalnav-namecard-input">Name on Card</label>
+                                            <input type="text" class="form-control" id="verticalnav-namecard-input" placeholder="Enter your Name on Card">
+                                        </div>
+                                    </div><!-- end col-lg-6 -->
+
+                                    <div class="col-lg-6">
+                                        <div class="mb-3">
+                                            <label>Credit Card Type</label>
+                                            <select class="form-select">
+                                                <option selected>Select Card Type</option>
+                                                <option value="AE">American Express</option>
+                                                <option value="VI">Visa</option>
+                                                <option value="MC">MasterCard</option>
+                                                <option value="DI">Discover</option>
+                                            </select>
+                                        </div>
+                                    </div><!-- end col-lg-6 -->
+                                </div><!-- end row -->
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="mb-3">
+                                            <label for="verticalnav-cardno-input">Credit Card Number</label>
+                                            <input type="text" class="form-control" id="verticalnav-cardno-input" placeholder="Enter your Enter Credit Card Number">
+                                        </div>
+                                    </div><!-- end col-lg-6 -->
+
+                                    <div class="col-lg-6">
+                                        <div class="mb-3">
+                                            <label for="verticalnav-card-verification-input">Card Verification Number</label>
+                                            <input type="text" class="form-control" id="verticalnav-card-verification-input" placeholder="Enter your Card Verification Number">
+                                        </div>
+                                    </div><!-- end col-lg-6 -->
+                                </div><!-- End row -->
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="mb-3">
+                                            <label for="verticalnav-expiration-input">Expiration Date</label>
+                                            <input type="text" class="form-control" id="verticalnav-expiration-input" placeholder="Enter your Expiration Date">
+                                        </div>
+                                    </div><!-- end col-lg-6 -->
+
+                                </div><!-- end row -->
+                            </form>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+        <!-- end card -->
+    </div>
+    <!-- end col -->
+</div>
+<!-- end row -->
+@section scripts{
+    <!-- jquery step -->
+    <script src="~/assets/libs/jquery-steps/build/jquery.steps.min.js"></script>
+
+    <!-- form wizard init -->
+    <script src="~/assets/js/pages/form-wizard.init.js"></script>
+
+    <!-- App js -->
+    <script src="~/assets/js/app.js"></script>
+}

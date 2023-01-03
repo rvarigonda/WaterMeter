@@ -1,0 +1,543 @@
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\Minible5.dll.config
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\Minible5.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\Minible5.pdb
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.WebPages.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\WebGrease.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.WebPages.xml
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\Minible5\Minible5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\Minible5\Minible5\obj\Debug\Minible.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Minible5\Minible5\obj\Debug\Minible.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Minible5\Minible5\obj\Debug\Minible.csproj.CopyComplete
+C:\Users\Dell\source\repos\Minible5\Minible5\obj\Debug\Minible5.dll
+C:\Users\Dell\source\repos\Minible5\Minible5\obj\Debug\Minible5.pdb
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\Minible5.dll.config
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\Minible5.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\Minible5.pdb
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\csc.exe
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\csc.exe.config
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\csc.rsp
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\csi.exe
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\csi.exe.config
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\csi.rsp
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.Managed.Core.targets
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.AppContext.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Collections.Immutable.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Console.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Globalization.Calendars.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.IO.Compression.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.IO.FileSystem.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Net.Sockets.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Reflection.Metadata.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.ValueTuple.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Xml.XmlDocument.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Xml.XPath.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\vbc.exe
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\vbc.exe.config
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\vbc.rsp
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\VBCSCompiler.exe
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\roslyn\VBCSCompiler.exe.config
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\System.Web.Helpers.xml
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\System.Web.Mvc.xml
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\System.Web.Optimization.xml
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\System.Web.Razor.xml
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\System.Web.WebPages.xml
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\System.Web.WebPages.Deployment.xml
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\System.Web.WebPages.Razor.xml
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\Newtonsoft.Json.xml
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\Antlr3.Runtime.pdb
+F:\trial\template\Minible MVC5\Minible5\Minible5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\trial\template\Minible MVC5\Minible5\Minible5\obj\Debug\Minible.csprojAssemblyReference.cache
+F:\trial\template\Minible MVC5\Minible5\Minible5\obj\Debug\Minible.csproj.CopyComplete
+F:\trial\template\Minible MVC5\Minible5\Minible5\obj\Debug\Minible5.dll
+F:\trial\template\Minible MVC5\Minible5\Minible5\obj\Debug\Minible5.pdb
+F:\trial\template\Minible MVC5\Minible5\Minible5\obj\Debug\Minible.csproj.CoreCompileInputs.cache
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\Minible5.dll.config
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\Minible5.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\Minible5.pdb
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe.config
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csc.rsp
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe.config
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csi.rsp
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.AppContext.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Collections.Immutable.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Console.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Globalization.Calendars.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Net.Sockets.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.ValueTuple.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe.config
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\vbc.rsp
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe.config
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\System.Web.Helpers.xml
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\System.Web.Mvc.xml
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\System.Web.Optimization.xml
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\System.Web.Razor.xml
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\System.Web.WebPages.xml
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\System.Web.WebPages.Deployment.xml
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\System.Web.WebPages.Razor.xml
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\Newtonsoft.Json.xml
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\Antlr3.Runtime.pdb
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\obj\Debug\Minible.csprojResolveAssemblyReference.cache
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\obj\Debug\Minible5.dll
+F:\trial\template\Minible MVC5\MinibleMVC\MinibleMVC\obj\Debug\Minible5.pdb
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\Minible5.dll.config
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\Minible5.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\Minible5.pdb
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe.config
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csc.rsp
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe.config
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\csi.rsp
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.AppContext.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Console.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.ValueTuple.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe.config
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\vbc.rsp
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\obj\Debug\Minible5.dll
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\obj\Debug\Minible5.pdb
+C:\Projects\raju\minible\Minible MVC5\MinibleMVC\MinibleMVC\obj\Debug\Minible.csprojResolveAssemblyReference.cache
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\Minible5.dll.config
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\Minible5.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\Minible5.pdb
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe.config
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csc.rsp
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe.config
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csi.rsp
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.AppContext.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Console.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.ValueTuple.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe.config
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\vbc.rsp
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.AssemblyReference.cache
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.CoreCompileInputs.cache
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.CopyComplete
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\obj\Debug\Minible5.dll
+C:\Sravani\Website Templates\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\obj\Debug\Minible5.pdb
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\Minible5.dll.config
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\Minible5.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\Minible5.pdb
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe.config
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csc.rsp
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe.config
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\csi.rsp
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.AppContext.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Console.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Net.Sockets.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.ValueTuple.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe.config
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\vbc.rsp
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.AssemblyReference.cache
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.CoreCompileInputs.cache
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.CopyComplete
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\obj\Debug\Minible5.dll
+C:\SRAVANI\My Web Sites\unzip\MinibleMVC_ASP_v2.3.0\MinibleMVC\MinibleMVC\obj\Debug\Minible5.pdb
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\Minible5.dll.config
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\Minible5.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\Minible5.pdb
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe.config
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\csc.rsp
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe.config
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\csi.rsp
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.AppContext.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Console.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Net.Sockets.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.ValueTuple.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe.config
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\vbc.rsp
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.AssemblyReference.cache
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.CoreCompileInputs.cache
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.CopyComplete
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\obj\Debug\Minible5.dll
+C:\SRAVANI\Office\new project\MinibleMVC\MinibleMVC\obj\Debug\Minible5.pdb
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\Minible5.dll.config
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\Minible5.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\Minible5.pdb
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\csc.exe.config
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\csc.rsp
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\csi.exe.config
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\csi.rsp
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.AppContext.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Console.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Net.Sockets.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.ValueTuple.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\vbc.exe.config
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\vbc.rsp
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.AssemblyReference.cache
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.CoreCompileInputs.cache
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\obj\Debug\Minible.csproj.CopyComplete
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\obj\Debug\Minible5.dll
+C:\new project\MinibleMVC (1)\MinibleMVC\MinibleMVC\obj\Debug\Minible5.pdb
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\Minible5.dll.config
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\Minible5.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\Minible5.pdb
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\csc.exe
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\csc.exe.config
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\csc.rsp
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\csi.exe
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\csi.exe.config
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\csi.rsp
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.AppContext.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Console.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.IO.Compression.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Net.Sockets.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.ValueTuple.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Xml.XPath.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\vbc.exe
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\vbc.exe.config
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\vbc.rsp
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\VBCSCompiler.exe
+C:\new project\Hydroid project\hydroid\MinibleMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\new project\Hydroid project\hydroid\MinibleMVC\obj\Debug\Minible.csproj.AssemblyReference.cache
+C:\new project\Hydroid project\hydroid\MinibleMVC\obj\Debug\Minible.csproj.CoreCompileInputs.cache
+C:\new project\Hydroid project\hydroid\MinibleMVC\obj\Debug\Minible.csproj.CopyComplete
+C:\new project\Hydroid project\hydroid\MinibleMVC\obj\Debug\Minible5.dll
+C:\new project\Hydroid project\hydroid\MinibleMVC\obj\Debug\Minible5.pdb

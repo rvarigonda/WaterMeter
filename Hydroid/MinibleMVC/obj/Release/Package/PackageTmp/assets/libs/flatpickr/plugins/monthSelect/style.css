@@ -1,0 +1,235 @@
+.flatpickr-monthSelect-months {
+  margin: 10px 1px 3px 1px;
+  flex-wrap: wrap;
+}
+
+.flatpickr-monthSelect-month {
+  background: none;
+  border: 0;
+  border-radius: 2px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #393939;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 400;
+  margin: 0.5px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  text-align: center;
+  width: 33%;
+}
+
+.flatpickr-monthSelect-month.disabled {
+	color: #eee;
+}
+
+.flatpickr-monthSelect-month.disabled:hover,
+.flatpickr-monthSelect-month.disabled:focus {
+	cursor: not-allowed;
+	background: none !important;
+}
+
+.flatpickr-monthSelect-theme-dark {
+  background: #3f4458;
+}
+
+.flatpickr-monthSelect-theme-dark .flatpickr-current-month input.cur-year {
+  color: #fff;
+}
+
+.flatpickr-monthSelect-theme-dark .flatpickr-months .flatpickr-prev-month,
+.flatpickr-monthSelect-theme-dark .flatpickr-months .flatpickr-next-month {
+  color: #fff;
+  fill: #fff;
+}
+
+.flatpickr-monthSelect-theme-dark .flatpickr-monthSelect-month {
+  color: rgba(255, 255, 255, 0.95);
+}
+
+.flatpickr-monthSelect-month:hover,
+.flatpickr-monthSelect-month:focus {
+  background: #e6e6e6;
+  cursor: pointer;
+  outline: 0;
+}
+
+.flatpickr-monthSelect-theme-dark .flatpickr-monthSelect-month:hover,
+.flatpickr-monthSelect-theme-dark .flatpickr-monthSelect-month:focus {
+  background: #646c8c;
+  border-color: #646c8c;
+}
+
+.flatpickr-monthSelect-month.selected {
+  background-color: #569ff7;
+  color: #fff;
+}
+
+.flatpickr-monthSelect-theme-dark .flatpickr-monthSelect-month.selected {
+  background: #80cbc4;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #fff;
+  border-color: #80cbc4;
+}
+
+/*---------------------------------*/
+
+.box {
+	width: 400px;
+	height: 400px;
+	position: relative;
+	display: flex;
+	align-items: center;
+	margin-top: 20px;
+	flex-wrap: nowrap;
+	justify-content: center;
+}
+
+#speedometer {
+	background-image: url(../project/img/speedometer_half\ \(2\).png);
+	width: 400px;
+	height: 300px;
+	border-radius: 50%;
+	background-size: 100%, 100%;
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+	#speedometer #needle {
+		position: absolute;
+		width: 6px;
+		height: 95px;
+		color: white;
+		border: 2px solid white;
+		top: 25%;
+		left: 49%;
+		background-color: green;
+		border-radius: 3px;
+		z-index: 111;
+		transform-origin: bottom;
+		transform: rotate(-45deg);
+		transition: 3s;
+		animation: round infinite;
+		animation-duration: 10s;
+	}
+
+@keyframes round {
+	0% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(-90deg)
+	}
+
+	5% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(-80deg)
+	}
+
+	10% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(-70deg)
+	}
+
+	15% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(-50deg)
+	}
+
+	20% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(-30deg)
+	}
+
+	25% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(-15deg)
+	}
+
+	30% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(-5deg)
+	}
+
+	35% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(0deg)
+	}
+
+	40% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(10deg)
+	}
+
+	50% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(20deg)
+	}
+
+	60% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(26deg)
+	}
+
+	70% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(35eg)
+	}
+
+	80% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(40deg)
+	}
+
+	85% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(38deg)
+	}
+
+	90% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(36deg)
+	}
+
+	95% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(40deg)
+	}
+
+	100% {
+		top: 25%;
+		left: 49%;
+		transform: rotate(38deg)
+	}
+}
+
+#point {
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	bottom: -10px;
+	left: -9px;
+	border-radius: 50%;
+	background-color: green;
+	transition: 3s;
+}

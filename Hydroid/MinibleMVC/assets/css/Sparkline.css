@@ -1,0 +1,159 @@
+﻿* {
+    margin: auto;
+    box-sizing: border-box;
+}
+
+
+.box {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+#speedometer {
+    background-image: url(../project/img/speedometer_half\ \(2\).png);
+    width: 400px;
+    height: 300px;
+    border-radius: 50%;
+    background-size: 100%, 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+    #speedometer #needle {
+        position: absolute;
+        width: 6px;
+        height: 95px;
+        color: white;
+        border: 2px solid white;
+        top: 25%;
+        left: 49%;
+        background-color: green;
+        border-radius: 3px;
+        z-index: 111;
+        transform-origin: bottom;
+        transform: rotate(-45deg);
+        transition: 3s;
+        animation: round infinite;
+        animation-duration: 10s;
+    }
+
+@keyframes round {
+    0% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(-90deg)
+    }
+
+    5% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(-80deg)
+    }
+
+    10% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(-70deg)
+    }
+
+    15% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(-50deg)
+    }
+
+    20% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(-30deg)
+    }
+
+    25% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(-15deg)
+    }
+
+    30% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(-5deg)
+    }
+
+    35% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(0deg)
+    }
+
+    40% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(10deg)
+    }
+
+    50% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(20deg)
+    }
+
+    60% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(26deg)
+    }
+
+    70% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(35eg)
+    }
+
+    80% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(40deg)
+    }
+
+    85% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(38deg)
+    }
+
+    90% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(36deg)
+    }
+
+    95% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(40deg)
+    }
+
+    100% {
+        top: 25%;
+        left: 49%;
+        transform: rotate(38deg)
+    }
+}
+
+#point {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: -10px;
+    left: -9px;
+    border-radius: 50%;
+    background-color: green;
+    transition: 3s;
+}
